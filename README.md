@@ -76,7 +76,7 @@ Now replace `justify-content-center` with `justify-content-end`. Do you see that
 
 #### Grid Layout
 
-Speaking of layout...since you know display flex this should be very easy for you. To layout out a page or a section all you'll need to do is create a `div` container element with the class name `container-fluid`.
+Speaking of layout...since you know display flex this should be very easy for you. To lay out a page or a section all you'll need to do is create a `div` container element with the class name `container-fluid`.
 
 |HTML Grid Container Element|
 |---|
@@ -102,7 +102,7 @@ Speaking of layout...since you know display flex this should be very easy for yo
 
 Try it! Paste it underneath your nav menu and see what happens!
 
-When you do this, the [row elements will have 12 columns](https://getbootstrap.com/docs/4.4/layout/grid/) added to them automatically. (*They use display: flex to do this.*) So if you put three items inside, each element will take up 4 columns. Only 2 items? Each will take up 6 columns. But you can change that by giving it the number of column they should take up with...you guessed it...a class name!!
+When you do this, the [row elements will have 12 columns](https://getbootstrap.com/docs/4.4/layout/grid/) added to them automatically. (*They use display: flex to do this.*) So if you put three items inside, each element will take up 4 columns. Only 2 items? Each will take up 6 columns. But you can change that by giving it the number of columns it should take up with...you guessed it...a class name!!
 
 ```html
 <div class="col"></div>
@@ -120,7 +120,7 @@ Have fun! Play! This is the way you truly deepen your understanding.
 
 ### Wrap-Up
 
-Bootstrap is an incredibly useful tool to jump start your app or website. You can use this technology for your 101 final project but you don't have to feel obligated! We really just want for you to have all the options available to you, give you a solid road map, and fundamental understanding so you can navigate, discover, and become your own developer!!
+Bootstrap is an incredibly useful tool to jump start your app or website. You can use this technology for your 101 final project but you don't have to feel obligated! We really just want for you to have all the options available to you, give you a solid road map, and a fundamental understanding so you can navigate, discover, and become your own developer!!
 
 Have fun and keep coding!
 
@@ -145,6 +145,6 @@ Obviously [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduc
 ## Questions for Student Discussion
 
 1. Why would we use Bootstrap?
-1. What advantages do you see working with Bootstrap?
-1. Why is responsive so important?
+1. What advantages do you see to working with Bootstrap?
+1. Why is responsive design so important?
 1. What's the first step to building a website? What's after that? When does Bootstrap come in that sequence?
